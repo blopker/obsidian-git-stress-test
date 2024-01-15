@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f857064504b3dc57",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af02ccbd7ae9e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3723af69a46b9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10000 markdown files/rejected sexuality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f822aa486288b75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e362cbb4849450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b006c5c678286c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71ce27cabc1571b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eebfb9e02702e5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed6e69d875b21293",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb2127a336fc8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7db53238dfdcb78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10000 markdown files/rejected sexuality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "516d261c2e9e6f21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10000 markdown files/rejected sexuality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "060b61001cb14883",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e86d90666efbaf1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10000 markdown files/rejected sexuality.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3723af69a46b9b7",
+  "lastOpenFiles": [
+    "10000 markdown files/rejective european wood mouse.md",
+    "10000 markdown files/razor-sharp mexican spanish.md",
+    "10000 markdown files/reactive overdraft credit.md",
+    "10000 markdown files/ravaging unilateral paralysis.md"
+  ]
+}
